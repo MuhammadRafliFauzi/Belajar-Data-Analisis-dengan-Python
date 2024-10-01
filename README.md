@@ -23,21 +23,29 @@ pip install -r requirements.txt
    ```
 2. Masuk ke direktori proyek:
    ```bash
-   cd Belajar-Data-Analisis-dengan-Python
+   cd Belajar-Data-Analisis-dengan-Python/dashboard
    ```
-3. Jalankan aplikasi Streamlit:
+3. Unduh file yang tersedia mulai dari file python dan dataset berupa file.csv yang telah bersih, jangan lupa untuk menyesuaikan kode program dan pathnya.
+4. Jalankan aplikasi Streamlit pada terminal:
    ```bash
    streamlit run dashboard.py
    ```
 
-4. Akses dashboard di browser dengan membuka URL yang diberikan (biasanya: `http://localhost:8501`).
+### 2. Menjalankan di Streamlit Cloud
+Jika Anda ingin mencoba dashboard secara online tanpa menginstal apapun di komputer Anda, Anda dapat mengunjungi tautan berikut:
+
+[**Dashboard Online**]([<LINK-STREAMLIT-WEB-ANDA>](https://2d3zctwjxbby3fhefvszvq.streamlit.app/))
+
+Dashboard ini di-hosting menggunakan **Streamlit Cloud**, sehingga Anda dapat langsung melihat visualisasi tanpa perlu melakukan setup lokal.
 
 ## Struktur Proyek
 - `dashboard.py`: Script utama yang digunakan untuk menjalankan dashboard.
 - `cleaned_day.csv`: Dataset harian penyewaan sepeda yang telah dibersihkan.
 - `cleaned_hour.csv`: Dataset jam penyewaan sepeda yang telah dibersihkan.
+- 'Notebook_Proyek_Analisis_Data.ipynb': File Google Collab untuk keperluan Data Wrangling, EDA dan Data Visualization
 - `requirements.txt`: Daftar pustaka yang diperlukan untuk menjalankan aplikasi.
 - `README.md`: Panduan cara menjalankan proyek ini.
+- 'url.txt': Link akses dashboard secara cloud menggunakan stream app
 
 ## Informasi Kontak
 - **Nama**: Muhammad Rafli Fauzi
