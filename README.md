@@ -2,7 +2,7 @@
 # Bike Sharing Dashboard
 
 ## Deskripsi Proyek
-Dashboard ini dikembangkan untuk memvisualisasikan data penyewaan sepeda menggunakan **Streamlit**. Proyek ini memanfaatkan dataset dari penyewaan sepeda untuk menganalisis tren berdasarkan kondisi cuaca, musim, dan hari dalam seminggu.
+Ini adalah proyek analisis data untuk penyewaan sepeda menggunakan dataset Bike Sharing. Proyek ini menampilkan dashboard interaktif yang dibangun menggunakan Streamlit, dengan visualisasi tentang bagaimana cuaca, musim, dan hari dalam seminggu mempengaruhi penyewaan sepeda.
 
 ## Cara Menjalankan Dashboard
 
