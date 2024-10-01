@@ -87,6 +87,6 @@ else:
     
     st.markdown("""
     **Kesimpulan**:
-    1. Grafik tersebut menunjukan intensitas menunjukkan bahwa penyewaan sepeda lebih tinggi selama hari kerja, dengan puncaknya pada Kamis dan Jumat, 
-       sedangkan akhir pekan yaitu Sabtu dan khususnya Minggu mengalami penurunan drastis.
+    1. Grafik tersebut menunjukan intensitas menunjukkan bahwa penyewaan sepeda lebih tinggi selama hari kerja, dengan puncaknya pada Hari Kamis dan Hari Jumat, 
+       sedangkan akhir pekan yaitu Hari Sabtu dan khususnya Hari Minggu mengalami penurunan drastis.
     """)
