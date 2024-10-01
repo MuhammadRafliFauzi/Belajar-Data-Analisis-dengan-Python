@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ### 2. Menjalankan di Streamlit Cloud
 Jika Anda ingin mencoba dashboard secara online tanpa menginstal apapun di komputer Anda, Anda dapat mengunjungi tautan berikut:
 
-[**Dashboard Online**]([<LINK-STREAMLIT-WEB-ANDA>](https://2d3zctwjxbby3fhefvszvq.streamlit.app/))
+[**Dashboard Online**](https://2d3zctwjxbby3fhefvszvq.streamlit.app/)
 
 Dashboard ini di-hosting menggunakan **Streamlit Cloud**, sehingga Anda dapat langsung melihat visualisasi tanpa perlu melakukan setup lokal.
 
