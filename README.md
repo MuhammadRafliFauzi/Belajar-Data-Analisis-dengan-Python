@@ -50,4 +50,3 @@ This dashboard is hosted using **Streamlit Cloud**, so you can immediately see t
 ## Owner Information
 - **Name**: Muhammad Rafli Fauzi
 - **Email**: raplifauji@gmail.com
-- **Coding ID**: raflifzi
