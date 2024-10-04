@@ -1,53 +1,53 @@
 
 # Bike Sharing Dashboard
 
-## Deskripsi Proyek
-Ini adalah proyek analisis data untuk penyewaan sepeda menggunakan Dataset Bike Sharing. Proyek ini menampilkan dashboard sederhana yang dibangun menggunakan Streamlit. Dashboard ini berisi visualisasi tentang bagaimana cuaca, musim, dan hari dalam seminggu mempengaruhi penyewaan sepeda.
+## Project Description
+This is a data analysis project for bike rentals using the Bike Sharing Dataset. The project features a simple dashboard built using Streamlit. This dashboard contains visualizations of how weather, season, and day of the week affect bike rentals.
 
-## Cara Menjalankan Dashboard
+## How to Run the Dashboard
 
-### 1. Menjalankan Secara Lokal
-Ikuti langkah-langkah berikut untuk menjalankan dashboard secara lokal di komputer:
+### Run Locally
+Follow these steps to run the dashboard locally on a computer:
 
-#### Prasyarat
-Pastikan sudah memiliki **Python** dan **pip** yang sudah terinstal. Kemudian instal library yang diperlukan dengan menjalankan perintah berikut:
+#### Prerequisites
+Make sure you have **Python** and **pip** installed. Then install the required libraries by running the following command:
 
-```bash
+``bash
 pip install -r requirements.txt
 ```
 
-#### Langkah-langkah
-1. Clone repository ini:
+#### Steps
+1. Clone this repository:
    ```bash
    git clone https://github.com/MuhammadRafliFauzi/Belajar-Data-Analisis-dengan-Python
    ```
-2. Masuk ke direktori proyek:
+2. Go to the project directory:
    ```bash
-   cd Belajar-Data-Analisis-dengan-Python/dashboard
+   cd Data-Analysis-with-Python/dashboard
    ```
-3. Unduh file yang tersedia mulai dari file python dan dataset berupa file.csv yang telah bersih, jangan lupa untuk menyesuaikan kode program dan pathnya.
-4. Jalankan aplikasi Streamlit pada terminal:
-   ```bash
+3. Download the available files starting from the python file and the dataset in the form of a clean.csv file, don't forget to adjust the program code and path.
+4. Run the Streamlit application in the terminal:
+   ``bash
    streamlit run dashboard.py
    ```
 
-### 2. Menjalankan di Streamlit Cloud
-Jika ingin mencoba dashboard secara online tanpa menginstal apapun di komputer, dapat mengunjungi tautan berikut:
+### Running on Streamlit Cloud
+If you want to try the dashboard online without installing anything on your computer, you can visit the following link:
 
-[**Dashboard Online**](https://2d3zctwjxbby3fhefvszvq.streamlit.app/)
+[**Online Dashboard**](https://2d3zctwjxbby3fhefvszvq.streamlit.app/)
 
-Dashboard ini di-hosting menggunakan **Streamlit Cloud**, sehingga dapat langsung melihat visualisasi tanpa perlu melakukan setup lokal.
+This dashboard is hosted using **Streamlit Cloud**, so you can immediately see the visualization without the need for local setup.
 
-## Struktur Proyek
-- `dashboard.py`: Script utama yang digunakan untuk menjalankan dashboard.
-- `cleaned_day.csv`: Dataset harian penyewaan sepeda yang telah dibersihkan.
-- `cleaned_hour.csv`: Dataset jam penyewaan sepeda yang telah dibersihkan.
-- `Notebook_Proyek_Analisis_Data.ipynb`: File Google Collab untuk keperluan Data Wrangling, EDA dan Data Visualization
-- `requirements.txt`: Daftar pustaka yang diperlukan untuk menjalankan aplikasi.
-- `README.md`: Panduan cara menjalankan proyek ini.
-- `url.txt`: Link akses dashboard secara cloud menggunakan stream app
+## Project Structure
+- `dashboard.py`: The main script used to run the dashboard.
+- `cleaned_day.csv`: Daily dataset of cleaned bike rentals.
+- `cleaned_hour.csv`: The cleaned bicycle rental hour dataset.
+- `Notebook_Project_Data_Analysis.ipynb`: Google Collab file for Data Wrangling, EDA and Data Visualization.
+- `requirements.txt`: List of libraries required to run the application.
+- `README.md`: A guide on how to run this project.
+- `url.txt`: Link to access the dashboard in the cloud using the stream app
 
-## Informasi Pemilik
-- **Nama**: Muhammad Rafli Fauzi
+## Owner Information
+- **Name**: Muhammad Rafli Fauzi
 - **Email**: raplifauji@gmail.com
-- **ID Dicoding**: raflifzi
+- **Coding ID**: raflifzi
